@@ -50,13 +50,15 @@ bcrypt.js for password hashing
 
 Installation
 Clone the repo
-git clone https://github.com/yourusername/xcelore-assignment.git
+git clone https://github.com/Deepak931014/Xcelore-Mern-Assignment.git
 Install NPM packages (for both backend and frontend)
+
+Start the backend server:
 cd Backend
 npm i
 npm start
 
-cd..
+Start the frontend development server:
 cd Frontend
 npm i
 npm run dev
